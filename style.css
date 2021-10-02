@@ -1,0 +1,26 @@
+#about-me {
+  background-image: url('img/illustration2.svg'), url('img/illustration.svg');
+  background-position: top right, bottom left;
+  background-repeat: no-repeat, no-repeat;
+}
+
+#stacks-card {
+  width: 26rem;
+}
+
+.stacks-card .card-img-top {
+  width: 100px;
+  margin: 0 auto;
+  margin-bottom: 80px;
+  margin-top: 50px;
+}
+
+#contact-section {
+  background-image:
+    url('img/footing-bg-1-desktop.svg'),
+    url('img/footing-bg-2-desktop.svg'),
+    url('img/footing-bg-3-desktop.svg');
+  background-position: bottom left, 13rem bottom, bottom right;
+  background-size: 10%;
+  background-repeat: no-repeat;
+}
